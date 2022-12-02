@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jayesh2611/jayharujs/issues"
   },
-  "homepage": "https://github.com/jayesh2611/jayharujs#readme"
+  "homepage": "https://github.com/jayesh2611/jayharujs#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
